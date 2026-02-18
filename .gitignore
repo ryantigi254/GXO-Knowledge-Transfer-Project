@@ -1,0 +1,31 @@
+# Confidential and proprietary inputs
+Data/
+Outputs/
+GXO Extra/
+Task/
+
+# Derived artefacts
+**/*.xlsx
+**/*.csv
+**/*.zip
+**/*.html
+
+# Keep core docs
+!README.md
+
+# Notebook/runtime artefacts
+.ipynb_checkpoints/
+__pycache__/
+
+# Secrets and local env
+.env
+*.env
+*.key
+*.pem
+
+# Non-essential binary/media artefacts
+**/*.pdf
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.webp

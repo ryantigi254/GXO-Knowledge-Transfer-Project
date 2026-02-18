@@ -1,0 +1,11 @@
+Filter and Visualisation Method Notes
+
+1. Profile feature distributions to understand scale and skew.
+2. Inspect categorical coverage to identify dominant classes.
+3. Check numeric correlations to detect redundant or interacting fields.
+4. Compare candidate rules with visual diagnostics before operational use.
+5. Prefer interpretable charts that support decision review by stakeholders.
+
+Operational guidance
+- Keep filtering logic explicit and auditable.
+- Validate each rule against edge cases before adoption.

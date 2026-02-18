@@ -1,0 +1,6 @@
+Project research notes
+
+- Prioritise open datasets for public demonstrations.
+- Compare candidate datasets on coverage, schema fit, and reproducibility.
+- Document AI use cases with measurable operational outcomes.
+- Keep private operational data and derived artefacts outside version control.

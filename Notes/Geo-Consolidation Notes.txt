@@ -1,0 +1,12 @@
+Geo-Consolidation Method Notes
+
+1. Convert spatial references into comparable latitude/longitude coordinates.
+2. Compute distance between candidate delivery points (for example, haversine for straight-line screening).
+3. Apply business-rule filters before proposing consolidation candidates.
+4. Rank candidate pairs by operational value and feasibility constraints.
+5. Validate candidates with an operator feedback loop and maintain a reviewed rule set.
+
+Improvement directions
+- Replace brute-force pair checks with spatial indexing/clustering.
+- Add road-network or travel-time constraints.
+- Capture operator approvals/rejections as explicit model feedback.

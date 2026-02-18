@@ -1,0 +1,11 @@
+Geo-Consolidation Visualisation Notes
+
+Recommended visual set
+1. Scatter map of delivery points for geographic coverage.
+2. Candidate-link overlay to inspect plausible consolidation routes.
+3. Distance distribution plot to tune radius/travel thresholds.
+4. Ranked opportunity view for prioritisation.
+
+Usage guidance
+- Use visuals to support review, not to replace feasibility checks.
+- Keep map outputs out of public repos when built from private data.

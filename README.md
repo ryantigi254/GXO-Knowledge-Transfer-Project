@@ -1,4 +1,6 @@
-# GXO Knowledge Transfer (Confidential-Safe Public Pack)
+# GXO-Knowledge-Transfer-Project
+
+## Confidential-Safe Public Pack
 
 This repository publishes methodology and analysis logic only.
 No confidential source data or derived data artefacts are included.
